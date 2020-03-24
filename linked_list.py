@@ -100,6 +100,7 @@ class LinkedList:
             print(temp.val)
             temp=temp.next
 if __name__ == '__main__':
+    #edit below
     c=LinkedList()
     for i in range(5):
         d=i
